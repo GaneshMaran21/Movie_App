@@ -5,6 +5,7 @@ interface Theme {
     light?:object,
     selectedTab?:string,
     accent?:string
+    dark2?:string
 }
 
 const themeConfig:Theme={
@@ -20,7 +21,8 @@ const themeConfig:Theme={
         200:"#0f0d23",
 
     },
-    accent:"#AB8BFF"
+    accent:"#AB8BFF",
+    dark2:"#0f0d23"
 
 
 }
