@@ -12,7 +12,7 @@ export default function Index() {
       }}
     >
       <Text style={{color:themeConfig.accent
-      }}>Hey Ganesh!</Text>
+      }}>Hey Maran!</Text>
     </View>
   );
 }
